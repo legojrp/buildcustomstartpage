@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06789a93.css",
+    "main.js": "/static/js/main.1c0e56eb.js",
+    "static/js/592.7d85222f.chunk.js": "/static/js/592.7d85222f.chunk.js",
+    "static/media/pikachu.png": "/static/media/pikachu.eb232322409501a74d62.png",
+    "index.html": "/index.html",
+    "main.06789a93.css.map": "/static/css/main.06789a93.css.map",
+    "main.1c0e56eb.js.map": "/static/js/main.1c0e56eb.js.map",
+    "592.7d85222f.chunk.js.map": "/static/js/592.7d85222f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06789a93.css",
+    "static/js/main.1c0e56eb.js"
+  ]
+}
